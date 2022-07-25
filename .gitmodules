@@ -1,0 +1,6 @@
+[submodule "YOLOv5-Flask"]
+	path = YOLOv5-Flask
+	url = https://github.com/ViAsmit/YOLOv5-Flask.git
+[submodule "Yolov5-on-Flask"]
+	path = Yolov5-on-Flask
+	url = https://github.com/muhk01/Yolov5-on-Flask.git
